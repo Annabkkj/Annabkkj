@@ -35,9 +35,3 @@ Seja bem-vindo(a) ao meu perfil! 😊
 <img align="left" alt="Flutter" title="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/> 
 <img align="left" alt="Android Studio" title="Android Studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/> 
 <img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> <br/> <br/>
-
-###  📊 Estatisticas
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Annabkkj&show_icons=true&theme=tokyonight&locale=pt-br"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annabkkj&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
