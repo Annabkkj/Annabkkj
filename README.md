@@ -22,7 +22,7 @@ Seja bem-vindo(a) ao meu perfil! 😊
     <img
         alt="Instagram"
         title="Siga-me no Instagram"
-        src="https://www.instagram.com/b._.anna09?igsh=MXdmdDd6bzAxaWd2eQ=="
+        href="https://www.instagram.com/b._.anna09?igsh=MXdmdDd6bzAxaWd2eQ=="
     />
 </a>
 
