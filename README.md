@@ -22,6 +22,8 @@ Seja bem-vindo(a) ao meu perfil! 😊
         <img src="https://img.shields.io/badge/📸%20INSTAGRAM-E4405F?style=for-the-badge" />
     </a>
 </p>
+
+
 ### 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> 
