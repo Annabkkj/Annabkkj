@@ -22,7 +22,7 @@ Seja bem-vindo(a) ao meu perfil! 😊
     <img
         alt="Instagram"
         title="Siga-me no Instagram"
-        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        src="https://www.instagram.com/b._.anna09?igsh=MXdmdDd6bzAxaWd2eQ=="
     />
 </a>
 
