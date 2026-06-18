@@ -18,7 +18,7 @@ Sou apaixonada por tecnologia e estou sempre em busca de novos conhecimentos na 
 
 Seja bem-vindo(a) ao meu perfil! 😊
 
-<a href="[https://instagram.com/SEU_USUARIO](https://www.instagram.com/b._.anna09/)" target="_blank">
+<a href="(https://www.instagram.com/b._.anna09/)" target="_blank">
     <img
         alt="Instagram"
         title="Siga-me no Instagram"
