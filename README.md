@@ -17,6 +17,7 @@ Sou apaixonada por tecnologia e estou sempre em busca de novos conhecimentos na 
 • Desenvolvimento de Sistemas 
 
 Seja bem-vindo(a) ao meu perfil! 😊
+
     <a href="https://www.instagram.com/b._.anna09?igsh=MXdmdDd6bzAxaWd2eQ==">
         <img src="https://img.shields.io/badge/📸%20INSTAGRAM-E4405F?style=for-the-badge" />
     </a>
